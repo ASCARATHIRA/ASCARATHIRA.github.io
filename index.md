@@ -4,7 +4,7 @@ layout: default
 
 # [](#header-1)My vital information
 
-### Definition lists can be used with HTML syntax.
+### Concise summary
 
 <dl>
 <dt>Name</dt>
