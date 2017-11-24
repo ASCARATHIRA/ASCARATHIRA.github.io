@@ -13,6 +13,8 @@ layout: default
 <dd>B.E. (CS) from Jadavpur University, Kolkata.</dd>
 <dt>Occupation</dt>
 <dd>PhD Student</dd>
+<dt>Supervisor</dt>
+<dd>Dr. Niloy Ganguly</dd>
 <dt>Broad Area of Research</dt>
 <dd>Social Computing</dd>
 <dt>Affiliation</dt>
