@@ -10,7 +10,7 @@ layout: default
 <dt>Name</dt>
 <dd>Avirup Saha</dd>
 <dt>Education</dt>
-<dd>B.E (CS) from Jadavpur University, Kolkata</dd>
+<dd>B.E. (CS) from Jadavpur University, Kolkata.</dd>
 <dt>Occupation</dt>
 <dd>PhD Student</dd>
 <dt>Broad Area of Research</dt>
