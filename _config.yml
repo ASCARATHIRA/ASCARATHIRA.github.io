@@ -1,3 +1,5 @@
+title: Hello World
+
 # Name of your blog (this will show up at the top of your page and in the RSS feed)
 name: Sample Jekyll Blog
 
@@ -5,7 +7,7 @@ name: Sample Jekyll Blog
 description: This is a sample Jekyll Blog.
 
 # Your name, as you want it to appear underneath each post and in the footer
-author: ASCARATHHIRA
+author: ASCARATHIRA
 
 # Your email if you want it to be linked on the contact page
 author_email: saha.avirup@gmail.com
@@ -21,7 +23,7 @@ category_dir: /
 baseurl: 
 
 # The URL of your actual domain. This will be used to make absolute links in the RSS feed.
-url: http://yourdomain.com/
+#url: http://yourdomain.com/
 
 #### Under the Hood Stuff #####
 
