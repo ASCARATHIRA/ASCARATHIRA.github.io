@@ -37,8 +37,8 @@ layout: default
     <p> Accepted in NAACL-HLT 2019. See the accepted paper list: <a href='https://naacl2019.org/program/accepted/'>Link to NAACL-HLT 2019 accepted papers</a> </p></dd>
   
   <br/>
-  <dd> Santosh, T. Y. S. S., Srijan Bansal, and Avirup Saha. "Can Siamese Networks help in stance detection?." Proceedings of the ACM India Joint International Conference on Data Science and Management of Data. ACM, 2019. <p style="color:MediumSeaGreen;"> <strong>[Special mention award in Young Researchers’ Symposium]</strong> </p> 
-  <p><a href='https://dl.acm.org/citation.cfm?id=3297047'>Link to paper</a> </p></dd>
+  <dd> Santosh, T. Y. S. S., Srijan Bansal, and Avirup Saha. "Can Siamese Networks help in stance detection?." Proceedings of the ACM India Joint International Conference on Data Science and Management of Data. ACM, 2019. <p style="color:MediumSeaGreen;"> <strong>[Special mention award in Young Researchers’ Symposium]</strong>  
+  <br/><a href='https://dl.acm.org/citation.cfm?id=3297047'>Link to paper</a> </p></dd>
   
   <br/>
   <dd> Saha, Avirup, Niloy Ganguly, Sandip Chakraborty and Abir De. "Learning Network Traffic Dynamics Using Temporal Point Process". 
