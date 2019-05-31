@@ -52,9 +52,10 @@ layout: default
 ### Journals
 
 <dl>
-  <dt> 2018 </dt>
+  <dt> 2019 </dt>
   <dd> Ray, Benay Kumar, Avirup Saha, Sunirmal Khatua, and Sarbani Roy. "Toward maximization of profit and quality of cloud federation: solution to cloud federation formation problem." The Journal of Supercomputing 75, no. 2 (2019): 885-929. <p><a href='https://link.springer.com/article/10.1007/s11227-018-2620-2'>Link to paper</a> </p></dd>
   <br/>
+  <dt> 2018 </dt>
   <dd> Ray, Benay Kumar, Avirup Saha, and Sarbani Roy. "Migration cost and profit oriented cloud federation formation: hedonic coalition game based approach." Cluster Computing 21, no. 4 (2018): 1981-1999. <p><a href='https://link.springer.com/article/10.1007/s10586-018-2837-0'>Link to paper</a> </p></dd>
   <br/>
   <dd> Ray, Benay, Avirup Saha, Sunirmal Khatua, and Sarbani Roy. "Quality and profit assured trusted cloud federation formation: game theory based approach." IEEE Transactions on Services Computing (2018). <p><a href='https://ieeexplore.ieee.org/document/8356142'>Link to paper</a> </p></dd>
