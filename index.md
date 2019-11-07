@@ -61,6 +61,13 @@ layout: default
   <dd> Ray, Benay, Avirup Saha, Sunirmal Khatua, and Sarbani Roy. "Quality and profit assured trusted cloud federation formation: game theory based approach." IEEE Transactions on Services Computing (2018). <p><a href='https://ieeexplore.ieee.org/document/8356142'>Link to paper</a> </p></dd>
 </dl>
 
+### Book Chapters
+
+<dl>
+  <dt> 2019 </dt>
+  <dd> Samanta, Bidisha, Avirup Saha, Niloy Ganguly, Sourangshu Bhattacharya, and Abir De. "Learning Information Dynamics in Online Social Media: A Temporal Point Process Perspective." In Dynamics on and of Complex Networks, pp. 205-236. Springer, Cham, 2017. <p><a href='https://link.springer.com/chapter/10.1007/978-3-030-14683-2_10'>Link to chapter</a> </p></dd>
+</dl>
+
 
 
 
