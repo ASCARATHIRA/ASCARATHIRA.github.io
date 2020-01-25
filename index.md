@@ -33,20 +33,22 @@ layout: default
 
 <dl>
   <dt> 2019 </dt>
-  <dd> Santosh Tokala, Vishal G, Avirup Saha and Niloy Ganguly. “AttentiveChecker: A Bi-Directional Attention Flow Mechanism for Fact Verification”. 
-    <p> Accepted in NAACL-HLT 2019. See the accepted paper list: <a href='https://naacl2019.org/program/accepted/'>Link to NAACL-HLT 2019 accepted papers</a> </p></dd>
+  <dd> Tokala, Santosh, G. Vishal, Avirup Saha, and Niloy Ganguly. "AttentiveChecker: A Bi-Directional Attention Flow Mechanism for Fact Verication." In Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics:
+Human Language Technologies, Volume 1 (Long and Short Papers), pp. 2218-2222. 2019. 
+    <p> <a href='https://www.aclweb.org/anthology/N19-1230/'>Link to paper</a> </p></dd>
   
   <br/>
   <dd> Santosh, T. Y. S. S., Srijan Bansal, and Avirup Saha. "Can Siamese Networks help in stance detection?." Proceedings of the ACM India Joint International Conference on Data Science and Management of Data. ACM, 2019. <p style="color:MediumSeaGreen;"> <strong>[Special mention award in Young Researchers’ Symposium]</strong>  
-  <br/><a href='https://dl.acm.org/citation.cfm?id=3297047'>Link to paper</a> </p></dd>
+  <p><a href='https://dl.acm.org/citation.cfm?id=3297047'>Link to paper</a> </p></dd>
   
   <br/>
-  <dd> Saha, Avirup, Niloy Ganguly, Sandip Chakraborty and Abir De. "Learning Network Traffic Dynamics Using Temporal Point Process". 
-  <p> Accepted in IEEE INFOCOM 2019. See paper 156 in the accepted paper list: <a href='https://infocom2019.ieee-infocom.org/accepted-paper-list-main-conference'>Link to IEEE INFOCOM 2019 accepted papers</a> </p></dd>
+  <dd> Saha, Avirup, Niloy Ganguly, Sandip Chakraborty, and Abir De. "Learning Network Traffic Dynamics Using Temporal Point Process." In IEEE INFOCOM 2019-IEEE Conference on Computer Communications, pp. 1927-1935. IEEE, 2019. 
+  <p><a href='https://ieeexplore.ieee.org/abstract/document/8737622'>Link to paper</a> </p></dd>
   
   <br/>
   <dt> 2018 </dt>
-  <dd> Saha, Avirup, Bidisha Samanta, Niloy Ganguly, and Abir De. "CRPP: Competing Recurrent Point Process for Modeling Visibility Dynamics in Information Diffusion." In Proceedings of the 27th ACM International Conference on Information and Knowledge Management, pp. 537-546. ACM, 2018. <p><a href='https://dl.acm.org/citation.cfm?id=3271726'>Link to paper</a> </p></dd>
+  <dd> Saha, Avirup, Bidisha Samanta, Niloy Ganguly, and Abir De. "CRPP: Competing Recurrent Point Process for Modeling Visibility Dynamics in Information Diffusion." In Proceedings of the 27th ACM International Conference on Information and Knowledge Management, pp. 537-546. ACM, 2018. 
+  <p><a href='https://dl.acm.org/citation.cfm?id=3271726'>Link to paper</a> </p></dd>
 </dl>
   
 ### Journals
