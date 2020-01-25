@@ -52,6 +52,9 @@ layout: default
 ### Journals
 
 <dl>
+  <dt> 2020 </dt>
+  <dd> Ray, Benay, Avirup Saha, Sunirmal Khatua, and Sarbani Roy. "Proactive Fault-Tolerance Technique to Enhance Reliability of Cloud Service in Cloud Federation Environment" IEEE Transactions on Cloud Computing (2020). <p><a href='https://ieeexplore.ieee.org/document/8964469'>Link to paper</a> </p></dd>
+  <br/>
   <dt> 2019 </dt>
   <dd> Ray, Benay Kumar, Avirup Saha, Sunirmal Khatua, and Sarbani Roy. "Toward maximization of profit and quality of cloud federation: solution to cloud federation formation problem." The Journal of Supercomputing 75, no. 2 (2019): 885-929. <p><a href='https://link.springer.com/article/10.1007/s11227-018-2620-2'>Link to paper</a> </p></dd>
   <br/>
