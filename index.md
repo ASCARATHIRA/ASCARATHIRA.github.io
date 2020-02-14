@@ -21,7 +21,6 @@ layout: default
 <dd>Member of CNeRG, Department of Computer Science & Engineering, IIT Kharagpur.</dd>
 </dl>
 
-[Link to CV](https://drive.google.com/open?id=1ZlQOWpZ9A8QS_j_1QO23P-GViyuV8lKe)
 <br/><br/>
 [Link to CNeRG Web Site](http://www.cnergres.iitkgp.ac.in/)
 
