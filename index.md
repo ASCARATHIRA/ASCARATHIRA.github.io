@@ -18,8 +18,9 @@ layout: default
 <dt>Broad Area of Research</dt>
 <dd>Data Mining</dd>
 <dt>Affiliation</dt>
-<dd>Member of CNeRG, Department of Computer Science & Engineering, IIT Kharagpur. [Link to CNeRG Web Site](http://www.cnergres.iitkgp.ac.in/)</dd>
+<dd>Member of CNeRG, Department of Computer Science & Engineering, IIT Kharagpur. </dd>
 </dl>
+[Link to CNeRG Web Site](http://www.cnergres.iitkgp.ac.in/)
 
 
 
