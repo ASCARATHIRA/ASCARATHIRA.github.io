@@ -38,7 +38,10 @@ Human Language Technologies, Volume 1 (Long and Short Papers), pp. 2218-2222. 20
 </dd>
   
   <br/>
-  <dd> Santosh, T. Y. S. S., Srijan Bansal, and Avirup Saha. "Can Siamese Networks help in stance detection?." Proceedings of the ACM India Joint International Conference on Data Science and Management of Data. ACM, 2019. <p style="color:MediumSeaGreen;"> <strong>[Special mention award in Young Researchers’ Symposium]</strong>  
+  <dd> Santosh, T. Y. S. S., Srijan Bansal, and Avirup Saha. "Can Siamese Networks help in stance detection?." Proceedings of the ACM India Joint International Conference on Data Science and Management of Data. ACM, 2019. 
+  <p style="color:MediumSeaGreen;"> 
+  <strong>[Special mention award in Young Researchers’ Symposium]</strong>  
+  </p>
   <!-- <p><a href='https://dl.acm.org/citation.cfm?id=3297047'>Link to paper</a> </p>-->
  </dd>
   
