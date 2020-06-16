@@ -23,19 +23,26 @@ layout: default
 
 [Link to CNeRG Web Site](http://www.cnergres.iitkgp.ac.in/)
 
-
-
+# Special Achievements
+Two-time finalist in Qualcomm Innovation Fellowship India (2019 and 2020).
 
 # Consolidated list of publications
 
 ### Conferences
 
 <dl>
+  <dt> 2020 </dt>
+  <dd> Santosh Tokala Yaswanth Sri Sai, Avirup Saha and Niloy Ganguly. "MVL: Multi-View Learning for News Recommendation" Accepted in SIGIR 2020. 
+  </dd>
+  <br/>
+  <dd> Avirup Saha, Shreyas S, Samik Datta, Disha Makhija, Priyank Patel and Niloy Ganguly. "Understanding the Success of Graph-based Semi-Supervised Learning using Partially Labelled Stochastic Block Model" Accepted in IJCAI 2020. 
+  </dd>
+  
   <dt> 2019 </dt>
   <dd> Tokala, Santosh, G. Vishal, Avirup Saha, and Niloy Ganguly. "AttentiveChecker: A Bi-Directional Attention Flow Mechanism for Fact Verication." In Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics:
 Human Language Technologies, Volume 1 (Long and Short Papers), pp. 2218-2222. 2019. 
     <!-- <p> <a href='https://www.aclweb.org/anthology/N19-1230/'>Link to paper</a> </p>-->
-</dd>
+  </dd>
   
   <br/>
   <dd> Santosh, T. Y. S. S., Srijan Bansal, and Avirup Saha. "Can Siamese Networks help in stance detection?." Proceedings of the ACM India Joint International Conference on Data Science and Management of Data. ACM, 2019. 
