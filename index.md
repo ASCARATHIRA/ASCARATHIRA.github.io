@@ -22,6 +22,8 @@ layout: default
 </dl>
 
 [Link to CNeRG Web Site](http://www.cnergres.iitkgp.ac.in/)
+<br/>
+[Link to Curriculum Vitae](https://drive.google.com/file/d/1ZlQOWpZ9A8QS_j_1QO23P-GViyuV8lKe/view?usp=sharing)
 
 # Special Achievements
 Two-time finalist in Qualcomm Innovation Fellowship India (2019 and 2020).
