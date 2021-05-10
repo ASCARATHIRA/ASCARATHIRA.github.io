@@ -22,8 +22,7 @@ layout: default
 </dl>
 
 [Link to CNeRG Web Site](http://www.cnergres.iitkgp.ac.in/)
-<br/>
-[Link to Curriculum Vitae](https://drive.google.com/file/d/1ZlQOWpZ9A8QS_j_1QO23P-GViyuV8lKe/view?usp=sharing)
+
 
 # Special Achievements
 Two-time finalist in Qualcomm Innovation Fellowship India (2019 and 2020).
@@ -32,12 +31,15 @@ Two-time finalist in Qualcomm Innovation Fellowship India (2019 and 2020).
 
 ### Conferences
 
-<dl>
+<dl>  
   <dt> 2020 </dt>
-  <dd> Santosh Tokala Yaswanth Sri Sai, Avirup Saha and Niloy Ganguly. "MVL: Multi-View Learning for News Recommendation" Accepted in SIGIR 2020. 
+  <dd> Avirup Saha and Niloy Ganguly. 2020. A GAN-based Framework for Modeling Hashtag Popularity Dynamics Using Assistive Information. In Proceedings of the 29th ACM International Conference on Information & Knowledge Management (CIKM '20). Association for Computing Machinery, New York, NY, USA, 1335–1344. DOI:https://doi.org/10.1145/3340531.3412025
   </dd>
   <br/>
-  <dd> Avirup Saha, Shreyas S, Samik Datta, Disha Makhija, Priyank Patel and Niloy Ganguly. "Understanding the Success of Graph-based Semi-Supervised Learning using Partially Labelled Stochastic Block Model" Accepted in IJCAI 2020. 
+  <dd> T.Y.S.S Santosh, Avirup Saha, and Niloy Ganguly. 2020. MVL: Multi-View Learning for News Recommendation. In Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR '20). Association for Computing Machinery, New York, NY, USA, 1873–1876. DOI:https://doi.org/10.1145/3397271.3401294
+  </dd>
+  <br/>
+  <dd> Saha, Avirup, Shreyas Sheshadri, S. Datta, Niloy Ganguly, D. Makhija and Priyank Patel. "Understanding the Success of Graph-based Semi-Supervised Learning using Partially Labelled Stochastic Block Model." IJCAI (2020).
   </dd>
   
   <dt> 2019 </dt>
@@ -69,6 +71,9 @@ Human Language Technologies, Volume 1 (Long and Short Papers), pp. 2218-2222. 20
 ### Journals
 
 <dl>
+  <dt>2021</dt>
+  <dd>Koley, Paramita, Avirup Saha, Sourangshu Bhattacharya, Niloy Ganguly, and Abir De. "Demarcating Endogenous and Exogenous Opinion Dynamics: An Experimental Design Approach." arXiv preprint arXiv:2102.05954 (2021).</dd>
+  <br/>
   <dt> 2020 </dt>
   <dd> Ray, Benay, Avirup Saha, Sunirmal Khatua, and Sarbani Roy. "Proactive Fault-Tolerance Technique to Enhance Reliability of Cloud Service in Cloud Federation Environment" IEEE Transactions on Cloud Computing (2020). 
     <!--<p><a href='https://ieeexplore.ieee.org/document/8964469'>Link to paper</a> </p>-->
