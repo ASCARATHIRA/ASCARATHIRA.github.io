@@ -106,6 +106,6 @@ Human Language Technologies, Volume 1 (Long and Short Papers), pp. 2218-2222. 20
 
 # My resume
 
-<embed src="https://ascarathira.github.io/resume_Avirup_Saha.pdf" type="application/pdf" />
+<embed width = "400px" src="https://ascarathira.github.io/resume_Avirup_Saha.pdf" type="application/pdf" />
 
 
