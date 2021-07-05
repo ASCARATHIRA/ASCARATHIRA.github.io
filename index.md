@@ -31,7 +31,12 @@ Two-time finalist in Qualcomm Innovation Fellowship India (2019 and 2020).
 
 ### Conferences
 
-<dl>  
+<dl>
+  <dt> 2021 </dt>
+  <dd> S. Sheshadri, A. Saha, P. Patel, S. Datta, and N. Ganguly. Graph-based semi-supervised learning through the lens of safety. Accepted at UAI 2021.
+  </dd>
+  <br/>
+  
   <dt> 2020 </dt>
   <dd> Avirup Saha and Niloy Ganguly. 2020. A GAN-based Framework for Modeling Hashtag Popularity Dynamics Using Assistive Information. In Proceedings of the 29th ACM International Conference on Information & Knowledge Management (CIKM '20). Association for Computing Machinery, New York, NY, USA, 1335–1344. DOI:https://doi.org/10.1145/3340531.3412025
   </dd>
@@ -46,16 +51,14 @@ Two-time finalist in Qualcomm Innovation Fellowship India (2019 and 2020).
   <dd> Tokala, Santosh, G. Vishal, Avirup Saha, and Niloy Ganguly. "AttentiveChecker: A Bi-Directional Attention Flow Mechanism for Fact Verication." In Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics:
 Human Language Technologies, Volume 1 (Long and Short Papers), pp. 2218-2222. 2019. 
     <!-- <p> <a href='https://www.aclweb.org/anthology/N19-1230/'>Link to paper</a> </p>-->
-  </dd>
-  
+  </dd>  
   <br/>
   <dd> Santosh, T. Y. S. S., Srijan Bansal, and Avirup Saha. "Can Siamese Networks help in stance detection?." Proceedings of the ACM India Joint International Conference on Data Science and Management of Data. ACM, 2019. 
   <p style="color:MediumSeaGreen;"> 
   <strong>[Special mention award in Young Researchers’ Symposium]</strong>  
   </p>
   <!-- <p><a href='https://dl.acm.org/citation.cfm?id=3297047'>Link to paper</a> </p>-->
- </dd>
-  
+ </dd>  
   <br/>
   <dd> Saha, Avirup, Niloy Ganguly, Sandip Chakraborty, and Abir De. "Learning Network Traffic Dynamics Using Temporal Point Process." In IEEE INFOCOM 2019-IEEE Conference on Computer Communications, pp. 1927-1935. IEEE, 2019. 
   <!--<p><a href='https://ieeexplore.ieee.org/abstract/document/8737622'>Link to paper</a> </p>-->
@@ -66,6 +69,14 @@ Human Language Technologies, Volume 1 (Long and Short Papers), pp. 2218-2222. 20
   <dd> Saha, Avirup, Bidisha Samanta, Niloy Ganguly, and Abir De. "CRPP: Competing Recurrent Point Process for Modeling Visibility Dynamics in Information Diffusion." In Proceedings of the 27th ACM International Conference on Information and Knowledge Management, pp. 537-546. ACM, 2018. 
   <!--<p><a href='https://dl.acm.org/citation.cfm?id=3271726'>Link to paper</a> </p>-->
 </dd>
+</dl>
+
+### Workshops
+
+<dl>
+  <dt> 2021 </dt>
+  <dd> Avirup Saha and Balaji Ganesan. Short Text Clustering in Continuous Time UsingStacked Dirichlet-Hawkes Process with Inverse Cluster Frequency Prior. Accepted at the 7th SIGKDD Workshop on Mining and Learning from Time Series (MiLeTS), 2021.
+  </dd>
 </dl>
   
 ### Journals
