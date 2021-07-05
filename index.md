@@ -33,15 +33,15 @@ Two-time finalist in Qualcomm Innovation Fellowship India (2019 and 2020).
 
 <dl>
   <dt> 2021 </dt>
-  <dd> S. Sheshadri, A. Saha, P. Patel, S. Datta, and N. Ganguly. Graph-based semi-supervised learning through the lens of safety. Accepted at UAI 2021.
+  <dd> S. Sheshadri, A. Saha, P. Patel, S. Datta, and N. Ganguly. "Graph-based semi-supervised learning through the lens of safety." Accepted at UAI 2021.
   </dd>
   <br/>
   
   <dt> 2020 </dt>
-  <dd> Avirup Saha and Niloy Ganguly. 2020. A GAN-based Framework for Modeling Hashtag Popularity Dynamics Using Assistive Information. In Proceedings of the 29th ACM International Conference on Information & Knowledge Management (CIKM '20). Association for Computing Machinery, New York, NY, USA, 1335–1344. DOI:https://doi.org/10.1145/3340531.3412025
+  <dd> Avirup Saha and Niloy Ganguly. 2020. "A GAN-based Framework for Modeling Hashtag Popularity Dynamics Using Assistive Information." In Proceedings of the 29th ACM International Conference on Information & Knowledge Management (CIKM '20). Association for Computing Machinery, New York, NY, USA, 1335–1344. DOI:https://doi.org/10.1145/3340531.3412025
   </dd>
   <br/>
-  <dd> T.Y.S.S Santosh, Avirup Saha, and Niloy Ganguly. 2020. MVL: Multi-View Learning for News Recommendation. In Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR '20). Association for Computing Machinery, New York, NY, USA, 1873–1876. DOI:https://doi.org/10.1145/3397271.3401294
+  <dd> T.Y.S.S Santosh, Avirup Saha, and Niloy Ganguly. 2020. "MVL: Multi-View Learning for News Recommendation." In Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR '20). Association for Computing Machinery, New York, NY, USA, 1873–1876. DOI:https://doi.org/10.1145/3397271.3401294
   </dd>
   <br/>
   <dd> Saha, Avirup, Shreyas Sheshadri, S. Datta, Niloy Ganguly, D. Makhija and Priyank Patel. "Understanding the Success of Graph-based Semi-Supervised Learning using Partially Labelled Stochastic Block Model." IJCAI (2020).
@@ -75,7 +75,7 @@ Human Language Technologies, Volume 1 (Long and Short Papers), pp. 2218-2222. 20
 
 <dl>
   <dt> 2021 </dt>
-  <dd> Avirup Saha and Balaji Ganesan. Short Text Clustering in Continuous Time UsingStacked Dirichlet-Hawkes Process with Inverse Cluster Frequency Prior. Accepted at the 7th SIGKDD Workshop on Mining and Learning from Time Series (MiLeTS), 2021.
+  <dd> Avirup Saha and Balaji Ganesan. "Short Text Clustering in Continuous Time Using Stacked Dirichlet-Hawkes Process with Inverse Cluster Frequency Prior." Accepted at the 7th SIGKDD Workshop on Mining and Learning from Time Series (MiLeTS), 2021.
   </dd>
 </dl>
   
