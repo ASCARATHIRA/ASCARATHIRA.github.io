@@ -10,18 +10,15 @@ layout: default
 <dt>Name</dt>
 <dd>Avirup Saha</dd>
 <dt>Education</dt>
-<dd>B.E. (CS) from Jadavpur University, Kolkata.</dd>
-<dt>Occupation</dt>
-<dd>Ph.D. Student</dd>
-<dt>Supervisor</dt>
+<dd>B.E. in Computer Science and Engineering from Jadavpur University, Kolkata.</dd>
+<dd>Ph.D. in Computer Science (thesis submitted) from IIT Kharagpur</dd>
+<dt>Ph.D. Supervisor</dt>
 <dd>Dr. Niloy Ganguly</dd>
-<dt>Broad Area of Research</dt>
-<dd>Data Mining</dd>
+<dt>Areas of Research</dt>
+<dd>Graph-based Semi-supervised Learning, Temporal Point Processes, Natural Language Processing</dd>
 <dt>Affiliation</dt>
-<dd>Member of CNeRG, Department of Computer Science & Engineering, IIT Kharagpur. </dd>
+<dd>Seeking Employment</dd>
 </dl>
-
-[Link to CNeRG Web Site](http://www.cnergres.iitkgp.ac.in/)
 
 
 # Special Achievements
