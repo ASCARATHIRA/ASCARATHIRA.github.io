@@ -22,7 +22,12 @@ layout: default
 
 
 # Special Achievements
-Two-time finalist in Qualcomm Innovation Fellowship India (2019 and 2020).
+Two-time finalist in Qualcomm Innovation Fellowship India (2019 and 2020). <br/>
+
+Received the M.R. Mitra Memorial Award (Citation and Gold Medal) from the Alumni Association of NCE Bengal and Jadavpur University based on academic performance
+in the B.E. (CSE) program. <br/>
+
+Received the TCS Award (Citation and Gold Medal) for Best Software Project in the B.E. (CSE) program.
 
 # Consolidated list of publications
 
