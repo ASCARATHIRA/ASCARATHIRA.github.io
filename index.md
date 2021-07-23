@@ -20,6 +20,7 @@ layout: default
 <dd>Seeking Employment</dd>
 </dl>
 
+For further details, please see my <a href="https://ascarathira.github.io/resume_Avirup_Saha.pdf">resume</a>.
 
 # Special Achievements
 Two-time finalist in Qualcomm Innovation Fellowship India (2019 and 2020). <br/>
@@ -119,6 +120,7 @@ Human Language Technologies, Volume 1 (Long and Short Papers), pp. 2218-2222. 20
 
 # My resume
 
+<a href="https://ascarathira.github.io/resume_Avirup_Saha.pdf">Click here</a> to download.
 <embed width = "1000px" height = "2000px" src="https://ascarathira.github.io/resume_Avirup_Saha.pdf" type="application/pdf" />
 
 
