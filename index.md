@@ -11,13 +11,13 @@ layout: default
 <dd>Avirup Saha</dd>
 <dt>Education</dt>
 <dd>B.E. in Computer Science and Engineering from Jadavpur University, Kolkata.</dd>
-<dd>Ph.D. in Computer Science (thesis submitted) from IIT Kharagpur</dd>
+<dd>Ph.D. in Computer Science from IIT Kharagpur</dd>
 <dt>Ph.D. Supervisor</dt>
 <dd>Dr. Niloy Ganguly</dd>
 <dt>Areas of Research</dt>
 <dd>Graph-based Semi-supervised Learning, Temporal Point Processes, Natural Language Processing</dd>
 <dt>Affiliation</dt>
-<dd>Seeking Employment</dd>
+<dd>IBM Research - India, Bangalore</dd>
 </dl>
 
 For further details, please see my <a href="https://ascarathira.github.io/resume_Avirup_Saha.pdf">resume</a>.
